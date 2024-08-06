@@ -1,0 +1,1 @@
+A hamburger menu is a widely recognized web and mobile design element that serves as a navigation tool. It is represented by an icon consisting of three horizontal lines stacked on top of each other, resembling a hamburger. This menu type is especially useful in responsive design for saving space and maintaining a clean interface.
